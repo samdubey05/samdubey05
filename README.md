@@ -1,4 +1,4 @@
 - 👋 Samarth Dubey
-- 👀 <bio-loading-soon/>
+- 👀 `<bio-loading-soon/>`
 - 🌱 Just sleeping or busy dreaming 
 
